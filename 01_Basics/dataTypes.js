@@ -1,6 +1,6 @@
 "use strict"; // treat all JS code as newer version
 
-let name = "hitesh"
+let name = "Aman"
 let age = 18
 let isLoggedIn = false
 let state;
